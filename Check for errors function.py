@@ -1,0 +1,6 @@
+colours_check = open("Colours", "w")
+colours_check.write("Orange\n")
+colours_check.write("Red\n")
+colours_check.write("Black\n")
+colours_check.write("Brown\n")
+colours_check.write("Purple")
